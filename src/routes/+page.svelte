@@ -50,7 +50,7 @@
                     <div class="flex justify-between items-center my-5 px-6">
                         <a href="https://www.tiktok.com/@hiram.dev" class="text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded transition duration-150 ease-in font-medium text-sm text-center w-full py-3">Tiktok</a>
                         <a href="mailto:rusty3031@gmail.com" class="text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded transition duration-150 ease-in font-medium text-sm text-center w-full py-3">Email</a>
-                        <a href="https://chat.whatsapp.com/Jq40THDMFnhBTUSedzcZc4" class="text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded transition duration-150 ease-in font-medium text-sm text-center w-full py-3">Vopper Community</a>
+                        <a href="https://chat.whatsapp.com/JemzlbBEv23GQACKk5412u" class="text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded transition duration-150 ease-in font-medium text-sm text-center w-full py-3">Vopper Community</a>
                     </div>
 
                     <div class="w-full">
